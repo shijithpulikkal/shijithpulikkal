@@ -1,6 +1,6 @@
 # Hi, I'm Shijith Pulikkal 👋
 
-### Data Analyst | Data Engineer | BI Developer | Azure Analytics Enthusiast
+### Data Analyst | BI Developer | Azure Analytics Enthusiast
 
 I help businesses transform raw data into actionable insights through modern analytics, business intelligence, data engineering, and dashboard solutions.
 
@@ -10,41 +10,67 @@ From 2019 to 2022, I worked as a Freelance Dashboard Designer and Top Rated Sell
 
 ## 🚀 About Me
 
-🔹 Experienced in Business Intelligence, Data Analytics, and Data Engineering
+I'm a Freelance Data Analytics Consultant specializing in Business Intelligence, Dashboard Development, Workflow Automation, Data Engineering, and Modern Analytics Solutions.
 
-🔹 Built dashboards and analytics solutions for clients across:
+Over the course of my freelance career, I have successfully delivered **550+ analytics and dashboard projects** for **390+ clients across 46+ countries**, helping organizations transform raw data into actionable insights and measurable business outcomes.
+
+Previously recognized as a **Top Rated Seller on Fiverr**, I have worked with startups, agencies, and enterprises across industries including:
+
 - E-commerce
+- Retail
 - Finance
 - Healthcare
-- Marketing
-- Lead Generation
+- Logistics
 - SaaS
-- Professional Services
+- Digital Marketing
+- Manufacturing
 
-🔹 Strong experience with:
-- Power BI
-- SQL Server
-- Azure Data Factory
-- Azure Synapse Analytics
-- Azure SQL Database
-- Python
-- BigQuery
-- Google Analytics
-- Google Ads
-- Facebook Ads
-- LinkedIn Ads
-- Shopify
-- WooCommerce
-- HubSpot
-- SEMrush
-- CallRail
-- Amazon Seller Analytics
-- Google Sheets
+My expertise spans the complete analytics lifecycle, from data extraction and transformation to advanced reporting, automation, and decision intelligence.
 
-🔹 Passionate about designing scalable analytics solutions that connect business goals with data-driven decision making.
+### Core Expertise
 
----
+✅ Business Intelligence & Dashboard Development
 
+✅ Power BI & Google Looker Studio
+
+✅ Data Engineering & ETL Pipelines
+
+✅ Google BigQuery & Cloud Analytics
+
+✅ SQL & Database Solutions
+
+✅ Python for Analytics & Automation
+
+✅ API Integrations
+
+✅ Google Apps Script Automation
+
+✅ AI-Powered Workflow Automation
+
+✅ Web Scraping & Data Collection
+
+✅ Cloud-Based Reporting Solutions
+
+### What I Build
+
+- Executive Dashboards
+- KPI Monitoring Systems
+- Sales & Revenue Analytics
+- Marketing Performance Dashboards
+- Google Analytics & Ads Reporting
+- Facebook & LinkedIn Ads Dashboards
+- Shopify & WooCommerce Analytics
+- BigQuery Data Warehouses
+- Automated Reporting Systems
+- Custom API Integrations
+- Operational Intelligence Solutions
+
+I focus on building reliable, scalable, and business-focused analytics systems that automate workflows, save valuable time, and help organizations make faster, data-driven decisions.
+
+My goal is simple:
+
+> Transform complex business data into clear insights, intelligent automation, and measurable business growth.
+> 
 ## 💼 Freelance Experience
 
 ### Top Rated Seller | Fiverr (2019 - 2022)
