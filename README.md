@@ -1,6 +1,6 @@
 # Hi, I'm Shijith Pulikkal 👋
 
-### Data Analyst | BI Developer | Azure Analytics Enthusiast
+### Data Analyst | BI Developer 
 
 I help businesses transform raw data into actionable insights through modern analytics, business intelligence, data engineering, and dashboard solutions.
 
