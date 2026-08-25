@@ -102,11 +102,9 @@ Key project areas included:
 
 🌍 Website: https://www.xtractstudio.com/
 
-📊 Dashboard Portfolio: https://shijithpulikkal.github.io/
+💼 LinkedIn: https://www.linkedin.com/in/shijithpulikkal
 
-💼 LinkedIn: https://www.linkedin.com/in/shijithpulikkal/
-
-📚 Microsoft Learn: https://learn.microsoft.com/en-us/users/shijithpulikkal/
+📚 Microsoft Learn: https://learn.microsoft.com/en-us/users/shijithpulikkal
 
 🎓 Google Skills Profile: https://www.skills.google/public_profiles/c499ecbe-ee2f-4a28-b244-1a22dd89892c
 
