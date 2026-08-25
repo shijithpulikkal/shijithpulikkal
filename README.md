@@ -10,7 +10,7 @@ From 2019 to 2022, I worked as a Freelance Dashboard Designer and Top Rated Sell
 
 ## 🚀 About Me
 
-I'm a Freelance Data Analytics Consultant specializing in Business Intelligence, Dashboard Development, Workflow Automation, Data Engineering, and Modern Analytics Solutions.
+I'm a Freelance Data Analyst specializing in Business Intelligence, Dashboard Development, Workflow Automation, Data Engineering, and Modern Analytics Solutions.
 
 Over the course of my freelance career, I have successfully delivered **550+ analytics and dashboard projects** for **390+ clients across 46+ countries**, helping organizations transform raw data into actionable insights and measurable business outcomes.
 
